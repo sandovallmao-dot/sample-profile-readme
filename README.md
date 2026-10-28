@@ -10,4 +10,5 @@ I like producing music
 Working out/Playing Soccer
 Cybersecurity
 A Quote I live by!
-_"Sometimes you got to do the things you don't want to do to get where you want to be!"_
+
+n/ _"Sometimes you got to do the things you don't want to do to get where you want to be!"_
