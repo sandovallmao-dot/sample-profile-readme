@@ -1,16 +1,13 @@
-## 👏 Hi, I'm *your name here*
+## 👏 Hi, I'm Angel!
 ##  About Me
-_Share some information about yourself, including your class, major, jobs, and extra-curriculars._
+_.Im still very new to Cyber security and programming but Im thrilled to dive into every lecture and assignment thats been thrown at me thus far. I like staying active, playing video games, and hanging out with my friends and family!"._
 ## ⚒️ Skills
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
+Linux 
+Github
+VsCode
 ## 🎉 Interests
-![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?logo=openai&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0052CC?logo=protonvpn&logoColor=white)
-![Open Source](https://img.shields.io/badge/Open%20Source-3DA639?logo=opensourceinitiative&logoColor=white)
-## 🔗 Links
-[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/<your-handle>)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/<your-handle>)
-
-_"Your sample quote here!"_
+I like producing music
+Working out/Playing Soccer
+Cybersecurity
+A Quote I live by!
+_"Sometimes you got to do the things you don't want to do to get where you want to be!"_
